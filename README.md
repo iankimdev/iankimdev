@@ -4,14 +4,6 @@
 
 ## portfolio
 
-social-midea app ver.2<br>
-https://github.com/iankimdev/social-mysql
-
-social-midea app ver.1<br>
-https://github.com/iankimdev/social-mern
-
-졸업논문<br>
-https://github.com/iankimdev/computer-vision
 
 
 ## Skills
