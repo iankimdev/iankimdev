@@ -25,4 +25,4 @@ https://github.com/iankimdev/computer-vision
 
 <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=MongoDB&logoColor=white"/>  <img src="https://img.shields.io/badge/MySql-4479A1?style=flat-square&logo=MySql&logoColor=white"/> <img src="https://img.shields.io/badge/Postgresql-4479A1?style=flat-square&logo=Postgresql&logoColor=white"/>
 
-<img src="https://img.shields.io/badge/Nginx-4479A1?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white"/>
+<img src="https://img.shields.io/badge/Nginx-4479A1?style=flat-square&logo=Nginx&logoColor=white"/> <img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white"/> <img src="https://img.shields.io/badge/ubuntu-4479A1?style=flat-square&logo=ubuntu&logoColor=white"/>
