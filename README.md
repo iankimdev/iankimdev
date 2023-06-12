@@ -1,5 +1,5 @@
 
-## AI-GALLERY
+## AI Gallery
 <img width="2544" alt="Screen Shot 2023-06-08 at 10 02 47" src="https://github.com/iankimdev/iankimdev/assets/120093816/d2bdbd78-601e-4b88-92b5-16df658d81ef">
 이스트소프트의 백엔드 부트캠프 과정 중 AI에 관심을 가지고 만든 개인 프로젝트입니다.<br>
 openAI의 DALLE를 사용하여 유저가 생성한 AI 이미지를 주문 제작할 수 있는 쇼핑몰 프로젝트입니다.<br>
