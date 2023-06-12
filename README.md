@@ -13,8 +13,9 @@ https://github.com/ESTsoft-Book-Project/bookstore
 <br><br><br>
 
 ## Computer vision
+![68747470733a2f2f76656c6f672e76656c63646e2e636f6d2f696d616765732f69616e6b696d6465762f706f73742f30613935643739312d343136342d346364302d613331652d6531366362316461663361612f696d6167652e706e67](https://github.com/iankimdev/iankimdev/assets/120093816/90198426-0031-428a-a391-08a8304ae6dd)
 졸업논문으로 작성한 computer vision 프로젝트입니다. <br>
-수학과 물리학을 사용하여 openCV 라이브러리의 특성을 C++로 구현한 프로젝트입니다.<br>
+수학과 물리학 그리고 카메라를 사용하여 openCV 라이브러리의 내부의 성질을 C++로 구현한 프로젝트입니다.<br>
 https://github.com/iankimdev/computer-vision
 <br><br><br>
 
