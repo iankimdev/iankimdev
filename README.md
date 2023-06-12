@@ -6,7 +6,7 @@ openAI의 DALLE를 사용하여 유저가 생성한 AI 이미지를 주문 제�
 https://github.com/iankimdev/AI-GALLERY
 <br><br><br>
 
-## Book store
+## Book store (진행 중)
 이스트소프트의 백엔드 부트캠프 과정 중 제작 중인 팀 프로젝트입니다.<br>
 온라인 서점을 제작 중이며 Django를 사용하였습니다.<br>
 https://github.com/ESTsoft-Book-Project/bookstore
