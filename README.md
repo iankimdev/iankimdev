@@ -1,21 +1,24 @@
+# Back-End Developer
+I have a passion for **problem solving and optimization**, with a deep interest in mathematics and data. I want to become a developer with in-depth knowledge and a **trusted colleague**. We communicate and share ideas and experiences with other developers.
 
+I want to have a **positive impact** on human life. I decided to become a developer because I wanted to work for people through my passion for computers. My career goal is to **contribute to human life** through the services I create.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iankimdev&layout=compact"><br><br>
-  <img src="https://github-readme-stats.vercel.app/api?username=iankimdev&show_icons=true">
-  <br><br>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white"/><img src="https://img.shields.io/badge/Django-3776AB?style=flat-square&logo=Django&logoColor=white"/><img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=Javascript&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=C++&logoColor=white"/><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/><img src="https://img.shields.io/badge/springboot-339933?style=flat-square&logo=springboot&logoColor=white"/> 
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=Postman&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Postgresql-4479A1?style=flat-square&logo=Postgresql&logoColor=white"/>
-  <br>
-  <img src="https://img.shields.io/badge/Nginx-4479A1?style=flat-square&logo=Nginx&logoColor=white"/><img src="https://img.shields.io/badge/Docker-4479A1?style=flat-square&logo=Docker&logoColor=white"/> 
+## Experiences
+- Serverless framework and Cloud service
+- Micro Service Architecture
+- AI learning data collection and processing service based on AI algorithm
+- Migration AWS DynamoDB to Azure CosmosDB
+- Migration AWS Lambda to Azure Functions
+- Migration AWS S3 to Azure Blob stroage
 
-</div>
+## Publishing
+- Wrote Part 13. DevOps
+- [주니어 백엔드 개발자, 그 이상으로 / 리디북스](https://ridibooks.com/books/2773000077)
 
-
-
-
+## Stacks
+- Node.js, Typescript
+- Python, Django,
+- AWS Lambda, EC2, S3, RDS(PostgreSQL), DynamoDB, SNS, SQS
+- Azure Function, Blob Storage, ServiceBus Topic/Queue, CosmosDB
+- Docker, Nginx
+- Git, Github
