@@ -12,8 +12,8 @@ I want to have a **positive impact** on human life. I decided to become a develo
 - Migration AWS S3 to Azure Blob stroage
 
 ## Publishing
-- Wrote Part 13. DevOps
-- [주니어 백엔드 개발자, 그 이상으로 / 리디북스](https://ridibooks.com/books/2773000077)
+- [ 『주니어 백엔드 개발자, 그 이상으로』 - ridibooks](https://ridibooks.com/books/2773000077)
+- Write Part 13. DevOps
 
 ## Stacks
 - Node.js, Typescript
