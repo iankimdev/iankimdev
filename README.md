@@ -11,7 +11,6 @@ I want to have a **positive impact** on human life. I decided to become a develo
 
 ## Publishing
 - [ 『주니어 백엔드 개발자, 그 이상으로』 - ridibooks](https://ridibooks.com/books/2773000077)
-- Write Part 13. DevOps
 
 ## Stacks
 - Node.js, Typescript
