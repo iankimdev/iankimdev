@@ -7,9 +7,7 @@ I want to have a **positive impact** on human life. I decided to become a develo
 - Serverless framework and Cloud service
 - Micro Service Architecture
 - AI learning data collection and processing service based on AI algorithm
-- Migration AWS DynamoDB to Azure CosmosDB
-- Migration AWS Lambda to Azure Functions
-- Migration AWS S3 to Azure Blob stroage
+- DevOps: migration aws to azure 
 
 ## Publishing
 - [ 『주니어 백엔드 개발자, 그 이상으로』 - ridibooks](https://ridibooks.com/books/2773000077)
