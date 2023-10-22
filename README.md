@@ -1,13 +1,14 @@
 # Back-End Developer
-I have a passion for **problem solving and optimization**, with a deep interest in mathematics and data. I want to become a developer with in-depth knowledge and a **trusted colleague**. We communicate and share ideas and experiences with other developers.
+Hello! I'm a developer committed to continuous growth. My profound interest in mathematics and data, rooted in problem-solving and optimization, fuels my passion. I aspire to be a developer with deep knowledge, aiming to be a trusted collaborator in the tech community. I believe in the power of in-depth knowledge and sharing experiences.
 
-I want to have a **positive impact** on human life. I decided to become a developer because I wanted to work for people through my passion for computers. My career goal is to **contribute to human life** through the services I create.
+I am determined to make a positive impact on humanity by using the potential of computers I love. My career goal is to contribute to human lives through the services I create. Let's collaborate, share ideas, and communicate with other developers to bring our shared visions to life.
 
 ## Experiences
 - Serverless framework and Cloud service
 - Micro Service Architecture
 - AI learning data collection and processing service based on AI algorithm
-- DevOps: migration aws to azure 
+- DevOps: migration aws to azure
+- https://github.com/iankimdev/migration-aws-to-azure
 
 ## Publishing
 - [ 『주니어 백엔드 개발자, 그 이상으로』 - ridibooks](https://ridibooks.com/books/2773000077)
