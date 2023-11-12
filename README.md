@@ -8,10 +8,7 @@ I am determined to make a positive impact on humanity by using the potential of 
 - Micro Service Architecture
 - AI learning data collection and processing service based on AI algorithm
 - DevOps: migration aws to azure
-- https://github.com/iankimdev/migration-aws-to-azure
-
-## Publishing
-- [ 『주니어 백엔드 개발자, 그 이상으로』 - ridibooks](https://ridibooks.com/books/2773000077)
+- code snipet: https://github.com/iankimdev/migration-aws-to-azure
 
 ## Stacks
 - Node.js, Typescript
