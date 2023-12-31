@@ -4,11 +4,9 @@ Hello! I'm a developer committed to continuous growth. My profound interest in m
 I am determined to make a positive impact on humanity by using the potential of computers I love. My career goal is to contribute to human lives through the services I create. Let's collaborate, share ideas, and communicate with other developers to bring our shared visions to life.
 
 ## Experiences
-- Serverless framework and Cloud service
+- Serverless framework
 - Micro Service Architecture
-- AI learning data collection and processing service based on AI algorithm
-- DevOps: migration aws to azure
-- code snipet: https://github.com/iankimdev/migration-aws-to-azure
+
 
 ## Stacks
 - Node.js, Typescript
