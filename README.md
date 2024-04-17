@@ -1,17 +1,5 @@
-# Back-End Developer
-Hello! I'm a developer committed to continuous growth. My profound interest in mathematics and data, rooted in problem-solving and optimization, fuels my passion. I aspire to be a developer with deep knowledge, aiming to be a trusted collaborator in the tech community. I believe in the power of in-depth knowledge and sharing experiences.
+# Ian Kim
+Backend Engineer
 
-I am determined to make a positive impact on humanity by using the potential of computers I love. My career goal is to contribute to human lives through the services I create. Let's collaborate, share ideas, and communicate with other developers to bring our shared visions to life.
-
-## Experiences
-- Serverless framework
-- Micro Service Architecture
-
-
-## Stacks
-- Node.js, Typescript
-- Python, Django,
-- AWS Lambda, EC2, S3, RDS(PostgreSQL), DynamoDB, SNS, SQS
-- Azure Function, Blob Storage, ServiceBus Topic/Queue, CosmosDB
-- Docker, Nginx
-- Git, Github
+Driven by a profound interest in mathematics and problem-solving, I am passionate about finding solutions and optimizations. <br>
+My goal is to contribute to improving human life, leveraging my skills and dedication.
